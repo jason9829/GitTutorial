@@ -1,4 +1,4 @@
-Studying Git...
+Studying Git... and it's fun.
 
 ADDING new text
 
