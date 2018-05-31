@@ -1,1 +1,3 @@
 Studying Git...
+
+ADDING text
