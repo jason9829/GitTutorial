@@ -1,6 +1,6 @@
 Studying Git...
 
-ADDING text
+ADDING new text
 
 Don't know what to add...
 
